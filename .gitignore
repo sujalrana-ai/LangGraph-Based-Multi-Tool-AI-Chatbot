@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Environments
+myenv/
+venv/
+env/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Local Databases
+*.db
+*.db-shm
+*.db-wal
